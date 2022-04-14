@@ -13,7 +13,7 @@ in various Programming Languages.
 
 <img style="padding: 1.5px" align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//typescript.svg"/>
 <img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
-<img style="padding: 1.5px" alt="left" alt="Python 3" width="26px" src="https://github.com/Groophy-Lifefor/Groophy-Lifefor/blob/main/batch.jpg"/>
+<img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 
 
 ### IDEs
