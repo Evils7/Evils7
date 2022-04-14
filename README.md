@@ -15,7 +15,9 @@ in various Programming Languages.
 <img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 
-
+  
+  
+  
 ### IDEs
 
 <img alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
@@ -23,10 +25,14 @@ in various Programming Languages.
 ### Tools (not all included)
 
 
+
+
 <img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
 
 
 ### status
+
+
 
 
 [![Evils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evils7&show_icons=true&theme=tokyonight)](https://github.com/Evils7/github-readme-stats)
