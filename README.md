@@ -14,15 +14,8 @@ in various Programming Languages.
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//php.svg"/>
 <img style="padding: 1.5px" align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//typescript.svg"/>
-<img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
+<img alt="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
 
-
-### IDEs
-
-<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
-<img align="left" alt="Jetbrains Rider" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/>
-<img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
 
 ### Tools (not all included)
 
