@@ -18,4 +18,4 @@
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 
 ## Contact me
-Discord: Evils#1337 \
+Discord: Evils#1337 
