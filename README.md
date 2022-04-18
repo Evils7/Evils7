@@ -22,6 +22,9 @@ in various Programming Languages.
 <img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
 <img align="alt" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:412254835849691146)
+
 ## Contact me
 Discord: Evils#1337
 
