@@ -23,7 +23,7 @@ in various Programming Languages.
 <img align="alt" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/412254835849691146)
+[![Discord Presence](https://lanyard.cnrad.dev/api/412254835849691146)](https://discord.com/users/412254835849691146)
 
 ## Contact me
 Discord: Evils#1337
