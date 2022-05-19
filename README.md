@@ -16,12 +16,6 @@ in various Programming Languages.
 
 <img align="alt" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 
-### Tools (not all included)
-
-<img align="left" alt="Digital Ocean" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//digitalocean.svg"/>
-<img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
-<img align="alt" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
-
 ### Stats
 ![Evils github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Evils7&layout=compact&theme=tokyonight)
 
