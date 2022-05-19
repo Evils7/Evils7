@@ -17,7 +17,7 @@ in various Programming Languages.
 <img align="alt" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 
 ### Stats
-[![Evils GitHub stats](https://github-readme-stats.vercel.app/api?username=Evils7&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evils7&theme=gradient&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/412254835849691146)](https://discord.com/users/412254835849691146)
