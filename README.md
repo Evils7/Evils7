@@ -25,6 +25,3 @@ in various Programming Languages.
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/412254835849691146)](https://discord.com/users/412254835849691146)
 
-## Contact me
-Discord: Evils#1337
-
