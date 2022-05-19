@@ -22,6 +22,9 @@ in various Programming Languages.
 <img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
 <img align="alt" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 
+### Stats
+![Evils7's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Evils7&layout=compact&theme=tokyonight)
+
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/412254835849691146)](https://discord.com/users/412254835849691146)
 
