@@ -3,8 +3,6 @@ I'm Evils
 I'm a 15 year old developer from Turkey who develops
 in various Programming Languages.
 
-## Languages, IDEs and Tools
-
 ### Languages
 
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
